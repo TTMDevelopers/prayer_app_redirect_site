@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prayer_app_redirect_site/static/css/main.85634aae.css",
+    "main.js": "/prayer_app_redirect_site/static/js/main.f957938a.js",
+    "static/media/icon.png": "/prayer_app_redirect_site/static/media/icon.6f9ea2e14d88e56f5d66.png",
+    "static/media/apple_store_img.svg": "/prayer_app_redirect_site/static/media/apple_store_img.8c4986ee4828b47d16f5cd694ef065f2.svg",
+    "index.html": "/prayer_app_redirect_site/index.html",
+    "main.85634aae.css.map": "/prayer_app_redirect_site/static/css/main.85634aae.css.map",
+    "main.f957938a.js.map": "/prayer_app_redirect_site/static/js/main.f957938a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85634aae.css",
+    "static/js/main.f957938a.js"
+  ]
+}
